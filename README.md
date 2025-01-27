@@ -1,4 +1,6 @@
 # demo
-This is my first git repository 
-i am Chandra
+This is my first git repository.
+<br>
+i am Chandra.
+<br>
 Stepping stone to success
